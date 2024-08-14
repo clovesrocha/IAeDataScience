@@ -1,0 +1,20 @@
+Arquivos CSV das bases de dados para execução dos projetos: 
+1. Dados para análise de possibilidade de ataque cardíaco;
+2. Dados para análise de perfil de fumantes e alcoólatras;
+3. Dados para análise da qualidade da água (se é potável ou não);
+4. Dados para previsão de diabetes;
+5. Dados do Pro-Uni (2017) para prever o tipo de bolsa adquirida por um estudante;
+6. Dados de acidentes no trânsito brasileiro (2020) para prever a fatalidade do acidente;
+7. Dados para análise da permanência de empregados em uma empresa;
+8. Dados para análise de frequência de alunos de uma academia de ginástica;
+9. Dados de voos diversos de linhas aéreas para prever a possibilidade de atraso de voo.
+Links do Kaggle para saber mais sobre as bases de dados e de que se tratam os dados armazenados nos arquivos.
+https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset
+https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+https://www.kaggle.com/datasets/raphaelmarconato/pro-uni-scholarship-2017
+https://www.kaggle.com/datasets/raphaelmarconato/detran-accidents-2020
+https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset
+https://www.kaggle.com/datasets/ddosad/datacamps-data-science-associate-certification
+https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay
