@@ -1,2 +1,2 @@
 # Disciplina | IA e Data Science 
-IA e DatacScience - UNIT 24.2
+IA e Data Science - UNIT 24.2
